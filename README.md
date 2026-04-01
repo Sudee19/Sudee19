@@ -120,9 +120,9 @@ NumPy, Matplotlib, Seaborn, Statsmodels
 ## 🤝 **Let's Connect!**
 
 ### **Professional Networks**
-- 📧 **Email**: [your-email@example.com]
-- 💼 **LinkedIn**: [linkedin.comin/your-profile]
-- 🐦 **Twitter**: [@your-twitter]
+- 📧 **Email**: [sudeepmadagonda2004@gmail.com]
+- 💼 **LinkedIn**: [https://www.linkedin.com/in/sudeep-madagonda-b67371270/]
+- 🐦 **Twitter**: [https://x.com/SudeepMadagonda]
 - 🌐 **Portfolio**: [your-portfolio-url]
 
 ### **Open Source**
