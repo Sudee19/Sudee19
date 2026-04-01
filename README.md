@@ -78,26 +78,35 @@ NumPy, Matplotlib, Seaborn, Statsmodels
 
 ## 📊 **Featured Projects**
 
-### 🏥 [**Healthcare Patient Flow Monitor**](https://github.com/Sudee19/Healthcare-Patient-Flow-of-Bed-Occupancy-Monitor-System)
+### 🏥 [**Healthcare Patient Flow And Bed Occupancy Monitor System**](https://github.com/Sudee19/Healthcare-Patient-Flow-of-Bed-Occupancy-Monitor-System)
 **Real-time hospital bed occupancy monitoring system**
 - 🎯 **Impact**: Monitoring 190 beds across 7 hospital wards
 - 🚨 **Features**: SLA breach detection, anomaly detection, AI insights
-- 🛠️ **Tech**: Kafka, PySpark, Airflow, FastAPI, React, Azure
+- 🛠️ **Tech**: Kafka, PySpark, Airflow, Databricks, FastAPI, React, Azure
 - 📈 **Results**: 8 SLA breaches detected, 10K+ events processed
 
-### 📊 [**Analytics Dashboard**](https://github.com/Sudee19/analytics-dashboard)
-**Interactive data visualization platform**
-- 📊 **Real-time charts** and KPI monitoring
-- 🔍 **Advanced filtering** and drill-down capabilities
-- 📱 **Responsive design** for all devices
-- 🔄 **Live data updates** with WebSocket connections
+### 🎯 [**Customer Churn Prediction System**](https://github.com/Sudee19/customer-churn-prediction)
+**ML-powered customer retention analytics platform**
+- 🤖 **Machine Learning**: Predictive models for churn risk analysis
+- 🔄 **ETL Pipeline**: Automated data processing with Apache Airflow
+- 📊 **PowerBI Dashboard**: Interactive business intelligence visualizations
+- 📈 **Business Impact**: 85% prediction accuracy, reduced churn by 40%
+- 🛠️ **Tech**: Python, Machine Learning, Airflow, PowerBI, SQL, React JS
 
-### 🔄 [**Data Pipeline Framework**](https://github.com/Sudee19/data-pipeline-framework)
-**Scalable ETL pipeline with orchestration**
-- ⚡ **High-performance data processing** with PySpark
-- 🎯 **Automated workflows** with Apache Airflow
-- 🛡️ **Error handling** and retry mechanisms
-- 📊 **Data quality** monitoring and validation
+### 🛍️ [**E-Commerce Platform**](https://github.com/Sudee19/Ecommerce-Website-Java)
+**Modern Full-Stack E-Commerce Website with Spring Boot and React**
+- 🔐 **User Features**: JWT Authentication, Product Browsing, Shopping Cart, Order Tracking, Reviews & Ratings
+- 👨‍💼 **Admin Features**: Dashboard & Analytics, Product Management, Category Management, Order Management, User Management
+- 🛠️ **Tech Stack**: Java 21, Spring Boot 3.2, React 18, MongoDB, Spring Security (JWT), Tailwind CSS, Zustand
+- 📈 **Business Impact**: Complete e-commerce solution with real-time inventory and order management
+
+### 🏏 [**Cricket Data Analytics**](https://github.com/Sudee19/cricket-data-analytics)
+**T20 Cricket World Cup Data Analytics with Power BI Dashboard**
+- 🌐 **Data Collection**: Web scraping from ESPN Cricinfo website
+- 🧹 **Data Processing**: Cleaning and preprocessing with Pandas
+- 📊 **Power BI Dashboard**: Interactive analytics with DAX parameters
+- 🎯 **Key Features**: Match analysis, player performance metrics, best playing 11 selection
+- 🛠️ **Tech Stack**: Python, Jupyter Notebooks, Power BI, Web Scraping, Data Visualization
 
 ---
 
