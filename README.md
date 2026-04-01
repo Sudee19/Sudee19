@@ -1,13 +1,10 @@
 # Hi, I'm Sudeep! 👋
 ---
 📍Bengalore | 🤖 Data Platform builder | 🎓 Artificial Intelligence and Data Science
-
 ---
-
 
 I build **real-time monitoring systems** and **data analytics platforms** that transform healthcare operations. Passionate about leveraging data engineering, machine learning, and cloud technologies to solve real-world challenges.
 
----
 ---
 
 ## 🎓 **Education**
@@ -29,15 +26,7 @@ I build **real-time monitoring systems** and **data analytics platforms** that t
 - Cloud Computing & Distributed Systems
 - Software Engineering & Algorithms
 ```
-
-
 ## 🚀 **What I Do**
-
-### **Healthcare Analytics**
-- 🏥 **Real-time monitoring systems** for hospital operations
-- 📊 **Predictive analytics** for patient flow optimization
-- ⚠️ **SLA breach detection** and automated alerting
-- 🤖 **AI-powered insights** for operational decision-making
 
 ### **Data Engineering**
 - 🔄 **Streaming architectures** with Kafka & PySpark
