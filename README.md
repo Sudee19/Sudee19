@@ -1,10 +1,35 @@
 # Hi, I'm Sudeep! 👋
-
-## 🏥 Healthcare Data Engineer & Analytics Specialist
-
-I build **real-time monitoring systems** and **data analytics platforms** that transform healthcare operations. Passionate about leveraging data engineering, machine learning, and cloud technologies to solve real-world healthcare challenges.
+---
+📍Bengalore | 🤖 Data Platform builder | 🎓 Artificial Intelligence and Data Science
 
 ---
+
+
+I build **real-time monitoring systems** and **data analytics platforms** that transform healthcare operations. Passionate about leveraging data engineering, machine learning, and cloud technologies to solve real-world challenges.
+
+---
+---
+
+## 🎓 **Education**
+
+### **Bachelor's Degree** - Artificial Intelligence and Data Science (Bachelors of Engineering)
+📍 **Siddaganga Institute of Technology** | Graduation Year 2026
+- 🤖 **Specialization**: Machine Learning, Deep Learning, Neural Networks, Data Science
+- 📊 **Focus**: Data Analysis, Data Modeling, Data Engineering
+- 💻 **Technical Skills**: Python, SQL, Java, Data Visualization
+
+### **Relevant Coursework**
+```
+- Machine Learning & Deep Learning
+- Data Mining & Big Data Analytics
+- Natural Language Processing
+- Computer Vision & Image Processing
+- Statistical Analysis & Probability
+- Database Systems & SQL
+- Cloud Computing & Distributed Systems
+- Software Engineering & Algorithms
+```
+
 
 ## 🚀 **What I Do**
 
@@ -84,22 +109,6 @@ NumPy, Matplotlib, Seaborn, Statsmodels
 - 🎯 **Automated workflows** with Apache Airflow
 - 🛡️ **Error handling** and retry mechanisms
 - 📊 **Data quality** monitoring and validation
-
----
-
-## 📈 **GitHub Activity**
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sudee19&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Sudeep's GitHub stats"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sudee19&theme=dark" alt="Sudeep's GitHub streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudee19&layout=compact&theme=dark" alt="Sudeep's top languages"/>
-</div>
 
 ---
 
@@ -187,13 +196,3 @@ I'm always interested in:
 - 📚 **Sharing** knowledge and learning from others
 
 **Feel free to reach out!** Let's build something amazing together! 🚀
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sudee19&style=for-the-badge&color=blue" alt="Profile views"/>
-</div>
-
----
-
-*🏥 Transforming healthcare operations through data analytics and innovation* 🚀
