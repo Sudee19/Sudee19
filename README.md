@@ -24,9 +24,9 @@ I build **real-time monitoring systems** and **data analytics platforms** that t
 
 ### **Bachelor's Degree** - Artificial Intelligence and Data Science (Bachelors of Engineering)
 📍 **Siddaganga Institute of Technology** | Graduation Year 2026
-- 🤖 **Specialization**: Machine Learning, Deep Learning, Neural Networks, Data Science
+- 🤖 **Specialization**: Artificial Intelligence, Machine Learning, Deep Learning, Neural Networks, Data Science
 - 📊 **Focus**: Data Analysis, Data Modeling, Data Engineering
-- 💻 **Technical Skills**: Python, SQL, Java, Data Visualization
+- 💻 **Technical Skills**: Python, SQL, Java, Data Visualization, Data Cleaning, Data Analytics
 
 ### **Relevant Coursework**
 ```
