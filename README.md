@@ -26,7 +26,7 @@ I build **real-time monitoring systems** and **data analytics platforms** that t
 📍 **Siddaganga Institute of Technology** | Graduation Year 2026
 - 🤖 **Specialization**: Artificial Intelligence, Machine Learning, Deep Learning, Neural Networks, Data Science
 - 📊 **Focus**: Data Analysis, Data Modeling, Data Engineering
-- 💻 **Technical Skills**: Python, SQL, Java, Data Visualization, Data Cleaning, Data Analytics
+- 💻 **Technical Skills**: Python, SQL, Java, Data Visualization, Data Cleaning, Data Analytics, Django(Framework)
 
 ### **Relevant Coursework**
 ```
