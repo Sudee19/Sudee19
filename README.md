@@ -181,7 +181,6 @@ NumPy, Matplotlib, Seaborn, Statsmodels
 
 ### **Community**
 - 🌟 **Active contributor** to open source projects
-- 🎤 **Speaker** at tech meetups and conferences
 - 👥 **Organizer** of data engineering workshops
 
 ---
