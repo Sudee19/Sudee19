@@ -18,7 +18,7 @@
 
 ---
 
-I build **real-time monitoring systems** and **data analytics platforms** that transform healthcare operations. Passionate about leveraging data engineering, machine learning, and cloud technologies to solve real-world challenges.
+I build **real-time monitoring systems** and **data analytics platforms**. Passionate about leveraging data engineering, machine learning, and cloud technologies to solve real-world challenges.
 
 ---
 
