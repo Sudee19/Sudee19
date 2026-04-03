@@ -98,7 +98,7 @@ NumPy, Matplotlib, Seaborn, Statsmodels
 - 🎯 **Impact**: Monitoring 190 beds across 7 hospital wards
 - 🚨 **Features**: SLA breach detection, anomaly detection, AI insights
 - 🛠️ **Tech**: Kafka, PySpark, Airflow, Databricks, FastAPI, React, Azure
-- 📈 **Results**: 8 SLA breaches detected, 10K+ events processed
+- 📈 **Results**: 
 
 ### 🎯 [**Customer Churn Prediction System**](https://github.com/Sudee19/customer-churn-prediction)
 **ML-powered customer retention analytics platform**
