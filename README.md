@@ -163,7 +163,7 @@ NumPy, Matplotlib, Seaborn, Statsmodels
 - 📝 **Building Real-Time Healthcare Monitoring Systems**
 - 🔧 **Optimizing Data Pipelines with PySpark and Airflow**
 - 🤖 **Implementing ML in Healthcare Operations**
-- ☁️ **Deploying Analytics on Azure Cloud**
+- ☁️ **Deploying Analytics on Azure and AWS Cloud**
 
 ### **Learning & Development**
 - 📖 **Advanced Kafka Streams Processing**
