@@ -179,7 +179,7 @@ NumPy, Matplotlib, Seaborn, Statsmodels
 - 🎯 **Built production-grade monitoring systems** handling 10K+ events/day
 - 🚀 **Optimized data pipelines** reducing processing time by 60%
 - 🤖 **Implemented ML models** with 95%+ accuracy
-- ☁️ **Deployed cloud solutions** with 99.9% uptime
+- ☁️ **Deployed cloud solutions** with 93% uptime
 
 ### **Community**
 - 🌟 **Active contributor** to open source projects
