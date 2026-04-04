@@ -191,7 +191,6 @@ NumPy, Matplotlib, Seaborn, Statsmodels
 - 🎯 **Love solving complex data problems** with elegant solutions
 - 🚀 **Always learning** new technologies and best practices
 - ☕ **Coffee enthusiast** - fuel for late-night coding sessions!
-- 🎮 **Gamer** - enjoy strategy and simulation games
 - 📚 **Book lover** - especially tech and sci-fi genres, manga related stories
 
 ---
