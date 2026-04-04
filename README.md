@@ -167,7 +167,7 @@ NumPy, Matplotlib, Seaborn, Statsmodels
 
 ### **Learning & Development**
 - 📖 **Advanced Kafka Streams Processing**
-- 🎯 **Deep Learning for Healthcare Analytics**
+- 🎯 **Deep Learning for Analytics**
 - 🔒 **Cloud Security Best Practices**
 - 📊 **Advanced Statistical Modeling**
 
