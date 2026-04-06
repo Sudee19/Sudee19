@@ -106,7 +106,7 @@ NumPy, Matplotlib, Seaborn, Statsmodels
 - 🔄 **ETL Pipeline**: Automated data processing with Apache Airflow
 - 📊 **PowerBI Dashboard**: Interactive business intelligence visualizations
 - 📈 **Business Impact**: 85% prediction accuracy, reduced churn by 40%
-- 🛠️ **Tech**: Python, Machine Learning, Airflow, PowerBI, SQL, React JS
+- 🛠️ **Tech**: Python, Machine Learning, Airflow, PowerBI, SQL, React JS, Excel
 
 ### 🛍️ [**E-Commerce Platform**](https://github.com/Sudee19/Ecommerce-Website-Java)
 **Modern Full-Stack E-Commerce Website with Spring Boot and React**
