@@ -53,7 +53,7 @@ I build **real-time monitoring systems** and **data analytics platforms**. Passi
 - ☁️ **Cloud deployment** on Azure & AWS
 
 ### **Full-Stack Development**
-- 🔧 **Backend APIs** with FastAPI & Python
+- 🔧 **Backend APIs** with RestAPI, FastAPI & Python
 - ⚛️ **Interactive dashboards** with React & TypeScript
 - 📱 **Real-time applications** with WebSocket connections
 - 🎨 **Modern UI/UX** with TailwindCSS & Material-UI
