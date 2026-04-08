@@ -153,7 +153,7 @@ NumPy, Matplotlib, Seaborn, Statsmodels
 - 🌐 **Portfolio**: [your-portfolio-url]
 
 ### **Open Source**
-- 🌟 **Contributing** to healthcare analytics projects
+- 🌟 **Contributing** to healthcare, finance analytics projects
 - 🔧 **Building tools** for data engineering community
 - 📚 **Sharing knowledge** through tutorials and guides
 - 🤝 **Collaborating** on innovative solutions
