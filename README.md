@@ -56,7 +56,7 @@ I build **real-time monitoring systems** and **data analytics platforms**. Passi
 - 🔧 **Backend APIs** with RestAPI, FastAPI & Python
 - ⚛️ **Interactive dashboards** with React & TypeScript
 - 📱 **Real-time applications** with WebSocket connections
-- 🎨 **Modern UI/UX** with TailwindCSS & Material-UI
+- 🎨 **Modern UI/UX** with Angular, TailwindCSS & Material-UI
 
 ---
 
