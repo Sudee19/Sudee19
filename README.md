@@ -21,7 +21,7 @@
 
 ---
 
-I build **real-time monitoring systems** and **data analytics platforms**. Passionate about leveraging Data Engineering, Software Engineering, Artificial Intelligence, Machine learning, and cloud technologies to solve real-world challenges.
+I build **real-time monitoring systems** and **data analytics platforms**. Passionate about leveraging Data Engineering, Software Engineering, Artificial Intelligence, Machine learning, and Cloud technologies to solve real-world challenges.
 
 ---
 
