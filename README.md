@@ -31,7 +31,7 @@ I build **real-time monitoring systems** and **data analytics platforms**. Passi
 📍 **Siddaganga Institute of Technology** | Graduation Year 2026
 - 🤖 **Specialization**: Artificial Intelligence, Machine Learning, Deep Learning, Neural Networks, Data Science
 - 📊 **Focus**: Data Analysis, Data Modeling, Data Engineering, LLM's, Data Architecture, RAG
-- 💻 **Technical Skills**: Python, SQL, Java, Data Visualization, Data Cleaning, Data Analytics, Django(Framework)
+- 💻 **Technical Skills**: Python, SQL, Java, Data Visualization, Data Cleaning, Data Analytics, Django(Framewor)
 
 ### **Relevant Coursework**
 ```
