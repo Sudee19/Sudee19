@@ -65,7 +65,7 @@ I build **real-time monitoring systems** and **data analytics platforms**. Passi
 ### **Data Engineering**
 ```
 Python, Apache Kafka, PySpark, Apache Airflow, 
-Databricks, Azure Data Factory, SQL, NoSQL, MongoDB
+Databricks, Azure Data Factory, SQL, NoSQL
 ```
 
 ### **Cloud & DevOps**
