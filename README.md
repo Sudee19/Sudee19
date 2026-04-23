@@ -50,7 +50,7 @@ I build **real-time monitoring systems** and **data analytics platforms**. Passi
 - 🔄 **Streaming architectures** with Kafka & PySpark
 - 📈 **Big data processing** with Databricks & Azure
 - 🎯 **ETL pipelines** with Apache Airflow
-- ☁️ **Cloud deployment** on Azure & AWS
+- ☁️ **Cloud deployment** on Azure & AWS(EC2)
 
 ### **Full-Stack Development**
 - 🔧 **Backend APIs** with RestAPI, FastAPI & Python, Java
