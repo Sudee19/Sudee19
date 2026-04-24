@@ -185,7 +185,7 @@ NumPy, Matplotlib, Seaborn, Statsmodels
 - ☁️ **Deployed cloud solutions** with 93% uptime
 
 ### **Community**
-- 🌟 **Active contributor** to open source projects, Data science projects
+- 🌟 **Active contributor** to open source projects
 ---
 
 ## 💡 **Fun Facts**
