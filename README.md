@@ -47,7 +47,7 @@ I build **real-time monitoring systems** and **data analytics platforms**. Passi
 ## 🚀 **What I Do**
 
 ### **Data Engineering**
-- 🔄 **Streaming architectures** with Kafka & PySpark
+- 🔄 **Streaming architectures** with Apache Kafka & PySpark
 - 📈 **Big data processing** with Databricks & Azure
 - 🎯 **ETL pipelines** with Apache Airflow 
 - ☁️ **Cloud deployment** on Azure & AWS(EC2)
