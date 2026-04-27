@@ -198,8 +198,6 @@ NumPy, Matplotlib, Seaborn, Statsmodels
 
 ---
 
-## 📞 **Get In Touch**
-
 I'm always interested in:
 - 🤝 **Collaborating** on innovative healthcare projects
 - 💡 **Discussing** data engineering challenges
