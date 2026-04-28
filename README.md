@@ -71,7 +71,7 @@ Databricks, Azure Data Factory, SQL, NoSQL
 ### **Cloud & DevOps**
 ```
 Azure, AWS, Docker, Kubernetes, GitHub Actions,
-Terraform, CI/CD, Linux, Bash Scripting
+Terraform, CI/CD, Linux
 ```
 
 ### **Backend Development**
