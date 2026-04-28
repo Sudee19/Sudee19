@@ -193,7 +193,6 @@ NumPy, Matplotlib, Seaborn, Statsmodels
 - 🏥 **Passionate about healthcare technology** and improving patient outcomes
 - 🎯 **Love solving complex data problems** with elegant solutions
 - 🚀 **Always learning** new technologies and best practices
-- ☕ **Coffee enthusiast** - fuel for late-night coding sessions!
 - 📚 **Book lover** - especially tech and sci-fi genres, manga related stories
 
 ---
